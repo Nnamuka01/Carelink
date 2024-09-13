@@ -1,35 +1,16 @@
-# healthcare-project
+## Table of Content 📚
+* [Description] (#description)
+* [Livesite] (#live)
+* [Author] (#owner)
 
-This template should help get you started developing with Vue 3 in Vite.
+<a name="description"></a>
+## Description ✍️
+Carelink is a healthcare provider that allows individuals and organisations to acquire professional healthcare service with ease.
 
-## Recommended IDE Setup
+<a name="live"></a>
+## Live Site 
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+<a name="live"></a>
+## Author
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+[Twitter](https://x.com/Kakatrenches)
