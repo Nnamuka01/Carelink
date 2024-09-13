@@ -1,7 +1,7 @@
 ## Table of Content 📚
-* [Description] (#description)
-* [Livesite] (#live)
-* [Author] (#owner)
+* [Description](#description)
+* [Livesite](#live)
+* [Author](#owner)
 
 <a name="description"></a>
 ## Description ✍️
